@@ -3,7 +3,7 @@
 ### <font size = "4"> 1. Importing the library <span>
 
 <font size = "3"> To begin, you first have to download the source code and the library folder. 
-(  can download the source code this repository, it's safe. If you dont
+( You can download the source code this repository, it's safe. If you dont
 think so, feel free to browse the source code. )
 
 
