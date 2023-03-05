@@ -1,0 +1,3 @@
+C:/Users/brocc/Desktop/SimplePlusPlus-Private-Source/cmake-build-debug/CMakeFiles/SimplePlusPlus_Private_Source.dir
+C:/Users/brocc/Desktop/SimplePlusPlus-Private-Source/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brocc/Desktop/SimplePlusPlus-Private-Source/cmake-build-debug/CMakeFiles/rebuild_cache.dir
