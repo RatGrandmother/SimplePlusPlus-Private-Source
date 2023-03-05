@@ -6,6 +6,7 @@
 ( You can download the source code this repository, it's safe. If you dont
 think so, feel free to browse the source code. )
 
+---
 
 ### <font size = "4"> 2. Creating a new project <span>
 
@@ -15,6 +16,12 @@ Then, go to the CMakeLists.txt file and add the following lines: <span>
 ```cmake
 add_executable(../path/to/library)
 ```
+ Example below:
+
+
+![img.png](img.png)
+
+
 
 <font size = "3"> Then, go to the main.cpp file and add the following lines: <span>
 
@@ -30,7 +37,7 @@ int main() {
 }
 ```
 
-
+---
 
 3. <font size = "4"> Compiling the project <span>
 
@@ -41,5 +48,3 @@ If you are using another IDE, you can compile it using the terminal. <span>
 ---
 
 **NOTE: For more information on how to use the calculator functions, look in the header files and read the comments.**
-
-<font size = "2"> Written by GitHub Copilot and (Mostly) RatGrandmother. <span>
