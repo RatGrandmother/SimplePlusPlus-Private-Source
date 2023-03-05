@@ -2,6 +2,7 @@
 #ifndef SIMPLEPLUSPLUS_PRIVATE_SOURCE_XTRAMATH_H
 #define SIMPLEPLUSPLUS_PRIVATE_SOURCE_XTRAMATH_H
 
+#include <cmath>
 double convertTemp(double temp, char unit) {
     switch (unit)
     {
@@ -17,7 +18,9 @@ double convertTemp(double temp, char unit) {
     }
 }
 
-
+double pythagorean(double a, double b) {
+    return sqrt(pow(a, 2) + pow(b, 2));
+}
 
 
 
