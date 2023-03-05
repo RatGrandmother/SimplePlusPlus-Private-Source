@@ -3,7 +3,7 @@
 #define SIMPLEPLUSPLUS_PRIVATE_SOURCE_XTRAMATH_H
 
 #include <cmath>
-double convertTemp(double temp, char unit) {
+double convertTemp(double temp, char unit) { // You first put the function name, then for the parameters, you put the temperature and the desired unit.
     switch (unit)
     {
         case 'F':
@@ -18,7 +18,7 @@ double convertTemp(double temp, char unit) {
     }
 }
 
-double pythagorean(double a, double b) {
+double pythagorean(double a, double b) { // You put number a, and number b. (a and b are the sides of the triangle.) and it will return the hypotenuse.
     return sqrt(pow(a, 2) + pow(b, 2));
 }
 
