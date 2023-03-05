@@ -1,13 +1,5 @@
 # ninja log v5
-1	281	6997069119543702	CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj	f04452f82cd7700a
-283	362	6997069120320792	SimplePlusPlus_Private_Source.exe	7c8d1bcfc4ad2988
-2	312	6997074672765332	CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj	f04452f82cd7700a
-312	389	6997074673519645	SimplePlusPlus_Private_Source.exe	7c8d1bcfc4ad2988
-3	375	6997077940853831	CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj	f04452f82cd7700a
-376	454	6997077941621777	SimplePlusPlus_Private_Source.exe	7c8d1bcfc4ad2988
-3	381	6997078001930030	CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj	f04452f82cd7700a
-381	458	6997078002678391	SimplePlusPlus_Private_Source.exe	7c8d1bcfc4ad2988
-2	378	6997078100464769	CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj	f04452f82cd7700a
-378	457	6997078101225153	SimplePlusPlus_Private_Source.exe	7c8d1bcfc4ad2988
 2	357	6997090776918681	CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj	f04452f82cd7700a
-357	440	6997090777728560	SimplePlusPlus_Private_Source.exe	7c8d1bcfc4ad2988
+352	428	6997094537356538	SimplePlusPlus_Private_Source.exe	2620cc0ff14fb8e6
+1	126	6997094814020767	build.ninja	d33bfa9ce36e897
+0	352	6997094536618511	CMakeFiles/SimplePlusPlus_Private_Source.dir/test.cpp.obj	b8c6bb1a75ecb107

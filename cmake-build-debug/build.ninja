@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/brocc/Desktop/SimplePlusPlus-Private-Source/cmak
 
 build cmake_object_order_depends_target_SimplePlusPlus_Private_Source: phony || CMakeFiles/SimplePlusPlus_Private_Source.dir
 
-build CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj: CXX_COMPILER__SimplePlusPlus_Private_Source_Debug C$:/Users/brocc/Desktop/SimplePlusPlus-Private-Source/main.cpp || cmake_object_order_depends_target_SimplePlusPlus_Private_Source
-  DEP_FILE = CMakeFiles\SimplePlusPlus_Private_Source.dir\main.cpp.obj.d
+build CMakeFiles/SimplePlusPlus_Private_Source.dir/test.cpp.obj: CXX_COMPILER__SimplePlusPlus_Private_Source_Debug C$:/Users/brocc/Desktop/SimplePlusPlus-Private-Source/test.cpp || cmake_object_order_depends_target_SimplePlusPlus_Private_Source
+  DEP_FILE = CMakeFiles\SimplePlusPlus_Private_Source.dir\test.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\SimplePlusPlus_Private_Source.dir
   OBJECT_FILE_DIR = CMakeFiles\SimplePlusPlus_Private_Source.dir
@@ -63,7 +63,7 @@ build CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj: CXX_COMPILER__S
 #############################################
 # Link the executable SimplePlusPlus_Private_Source.exe
 
-build SimplePlusPlus_Private_Source.exe: CXX_EXECUTABLE_LINKER__SimplePlusPlus_Private_Source_Debug CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj
+build SimplePlusPlus_Private_Source.exe: CXX_EXECUTABLE_LINKER__SimplePlusPlus_Private_Source_Debug CMakeFiles/SimplePlusPlus_Private_Source.dir/test.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\SimplePlusPlus_Private_Source.dir
