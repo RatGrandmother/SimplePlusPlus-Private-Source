@@ -1,3 +1,5 @@
 # ninja log v5
 1	281	6997069119543702	CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj	f04452f82cd7700a
 283	362	6997069120320792	SimplePlusPlus_Private_Source.exe	7c8d1bcfc4ad2988
+2	312	6997074672765332	CMakeFiles/SimplePlusPlus_Private_Source.dir/main.cpp.obj	f04452f82cd7700a
+312	389	6997074673519645	SimplePlusPlus_Private_Source.exe	7c8d1bcfc4ad2988
